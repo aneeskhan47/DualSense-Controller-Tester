@@ -1,6 +1,6 @@
 # DualSense Controller Tester
 
-A GUI application for testing and configuring PlayStation 5 DualSense controllers on PC.
+A GUI application for testing  PlayStation 5 DualSense controllers on Windows PC.
 
 ![DualSense Controller Tester](screenshot.png)
 
