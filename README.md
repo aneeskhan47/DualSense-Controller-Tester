@@ -1,6 +1,6 @@
 # DualSense Controller Tester
 
-A GUI application for testing  PlayStation 5 DualSense controllers on Windows PC.
+A GUI application for testing and configuring PlayStation 5 DualSense controllers on PC.
 
 ![DualSense Controller Tester](screenshot.png)
 
@@ -40,3 +40,14 @@ A GUI application for testing  PlayStation 5 DualSense controllers on Windows PC
    - Configure player LEDs
    - Try haptic feedback
 4. Disconnect controller to reset all changes
+
+## Credits
+
+- [dualsense-controller-python](https://github.com/yesbotics/dualsense-controller-python) - Python library for DualSense controllers
+- [tkinter](https://docs.python.org/3/library/tk.html) - Python GUI framework
+- [PIL](https://pillow.readthedocs.io/en/stable/) - Python Imaging Library
+- [pyinstaller](https://pyinstaller.readthedocs.io/en/stable/) - Python application packaging tool
+## License
+
+This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
+
