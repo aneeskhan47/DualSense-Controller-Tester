@@ -1,3 +1,6 @@
+> [!IMPORTANT]  
+> For a more advanced online tool with additional features for testing DualSense controllers, check out [ds.daidr.me](https://ds.daidr.me). It supports both the standard DualSense and the DualSense Edge.
+
 # DualSense Controller Tester
 
 A GUI application for testing out PlayStation 5 DualSense controllers on PC.
@@ -21,6 +24,10 @@ A GUI application for testing out PlayStation 5 DualSense controllers on PC.
 - Battery monitoring with charging status
 - USB connection status
 - Clean and intuitive interface
+
+## Limitations
+
+- DualSense Edge does not work
 
 ## Download
 
